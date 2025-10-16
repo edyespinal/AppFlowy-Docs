@@ -20,7 +20,7 @@ AppFlowy is excited to be part of Hacktoberfest, and we welcome your contributio
 
 1. **GitHub Account**: If you don't have one already, [create a GitHub account](https://github.com/join) – it's free!
 2. **Git**: Install [Git](https://git-scm.com/) on your computer if you haven't already. Git is a version control system that you'll use to manage your contributions.
-3. **Fork AppFlowy**: Visit the [AppFlowy GitHub repository](https://github.com/appflowy/appflowy) and click the "Fork" button in the top-right corner. This creates a copy of our repository under your GitHub account.
+3. **Fork AppFlowy**: Visit the [AppFlowy GitHub repository](https://github.com/AppFlowy-IO/AppFlowy) and click the "Fork" button in the top-right corner. This creates a copy of our repository under your GitHub account.
 
 #### Step 2: Explore the AppFlowy Project
 
